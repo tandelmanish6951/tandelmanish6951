@@ -1,52 +1,53 @@
-## Hi there 👋 I'm Manish Tandel  
+## 👋 Hi, I'm Manish Tandel  
 
-🎯 **Business Analyst | Data & Visualization Enthusiast | Observability Engineer**
+### 💼 Business Analyst | Data Analytics | Power BI | Splunk | Process Optimization  
 
-I'm a results-driven **Business Analyst** with 3+ years of experience in **Splunk architecture, system observability, and data analytics**.  
-I enjoy transforming data into actionable insights, optimizing processes, and improving system reliability.  
-My experience spans across **financial services, wholesale operations, and data-driven business strategy.**
-
----
-
-### 💡 What I Do
-- 📊 Build interactive **Power BI** and **Tableau dashboards** that turn complex data into clear business insights  
-- 🧩 Design data models and optimize data flow for performance and reliability  
-- 🧠 Combine business strategy with data analytics to support decision-making  
-- ⚙️ Implement and manage **Splunk**, **Cribl**, and **Azure** environments to enhance observability  
+I’m a **Business Analyst and Observability Engineer** with over **3 years of experience** working across **data analytics, visualization, and system reliability**.  
+My career started in operations and business management, where I built a strong foundation in data-driven decision-making and process optimization.  
+Since then, I’ve transitioned into analytics and observability engineering, combining **technical systems knowledge** with **business insight** to drive measurable impact.
 
 ---
 
-### 🧰 Technical Skills
-**Analytics & Visualization:** Power BI | Tableau | SQL | Excel | Python (Basic) | KPI Reporting  
-**Data Platforms & Tools:** Splunk | Cribl | Grafana | Azure | AWS (EC2) | JIRA | ServiceNow | GitHub  
-**Core Competencies:** Business Analysis | Process Optimization | Data Flow Design | Stakeholder Communication | Regulatory Compliance  
+### 🎯 What I Do
+- Transform complex data into **actionable insights** using **Power BI, Tableau, and SQL**  
+- Design efficient **data pipelines** and dashboards that improve system reliability and business outcomes  
+- Support **incident management** and **data observability** across platforms like **Splunk, Cribl, and Azure**  
+- Collaborate with stakeholders to improve business processes and deliver measurable performance gains  
 
 ---
 
-### 🚀 Featured Projects
-- **Shopify App Analytics (Power BI):** Analyzed app performance using KPIs, DAX measures, and cross-table relationships to identify success factors for developers.  
-- **Website Conversion & Retention Analysis (Excel):** Built funnels and cohort models to track retention and conversion trends, driving actionable marketing insights.  
-- **Tableau Profitability Dashboard:** Identified top-performing product categories and optimized advertising spend using ROAS analysis.  
-- **Wholesale Optimization Project:** Applied retention and funnel analysis to improve customer retention by 33% and profit margins by 12%.
+### 😄 Fun Facts About Me
+- I turned my family business into a modern, data-driven enterprise and grew retention by **33%** 📈  
+- I’m passionate about simplifying messy data into clean, meaningful stories  
+- I enjoy working on **automation**, **data visualization**, and **real-world problem-solving projects**  
+- I love cooking seafood 🐟 and exploring new cuisines when I’m not building dashboards  
 
 ---
 
-### 💼 Professional Experience
-**JP Morgan Chase – Observability SRE (2023–2024)**  
-- Improved Splunk operational stability and reduced incident recurrence through automation and process improvement.  
-- Enhanced on-call efficiency and reduced system downtime by streamlining monitoring and data pipelines.
+### 🌍 Open to Collaboration
+I’m currently open to **outsourcing and freelance analytics projects** — especially in:
+- Power BI / Tableau dashboard development  
+- Data cleaning and process automation  
+- Splunk / Cribl system monitoring and performance optimization  
+- KPI design and business process visualization  
 
-**NetBuilder Inc. – Observability Engineer (2022)**  
-- Designed cloud solutions in Azure and deployed secure AKS clusters.  
-- Earned multiple Splunk and Cribl certifications while mastering observability best practices.
-
-**Tandel’s Trading USA LLC – CEO (2018–Present)**  
-- Led digital transformation by implementing analytics dashboards and centralized systems.  
-- Improved profitability by 12% and retention by 33% through data-driven strategy.
+If you’re looking for a detail-oriented analyst or observability expert, feel free to connect!
 
 ---
 
-### 🎓 Education & Certifications
-- **TripleTen** – Business Intelligence Analyst Program (2025)  
-- **Fanshawe College (Canada)** – Master’s in Marketing Management & International Business  
-- **Splunk Certifications:** Core User, Power User, Admin, Cluster Admin, Advanced Dashboards
+### 🧠 Tech Stack
+**Analytics & Visualization:** Power BI | Tableau | Excel | SQL | Python (Basic)  
+**Data Platforms & Tools:** Splunk | Cribl | Grafana | Azure | AWS (EC2)  
+**Other Tools:** JIRA | ServiceNow | GitHub | Atlassian  
+**Core Competencies:** Data Flow Optimization | Process Improvement | KPI Design | Stakeholder Communication  
+
+---
+
+### 🔗 Connect with Me  
+📄 **Resume:** (https://drive.google.com/file/d/1uYo_3Dyfp4vt7QQgEA8PLuWEzfU1Eo0k/view?usp=sharing)
+💼 **LinkedIn:** (https://linkedin.com/in/manish-tandel)  
+📧 **Email:** (tandel.manish34@gmail.com)
+
+---
+
+⭐ *“Data doesn’t drive decisions — clarity does.”* 
