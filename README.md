@@ -53,7 +53,7 @@ If you’re looking for a **detail-oriented analyst** or **observability expert*
 ## 🔗 Connect with Me  
 
 📄 **[Resume](https://drive.google.com/file/d/1uYo_3Dyfp4vt7QQgEA8PLuWEzfU1Eo0k/view?usp=sharing)**  
-💼 **[LinkedIn](https://linkedin.com/in/manish-tandel)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/manishtandel)**  
 📧 **[Email](mailto:tandel.manish34@gmail.com)**  
 
 ---
