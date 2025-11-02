@@ -47,7 +47,3 @@ If you’re looking for a detail-oriented analyst or observability expert, feel 
 📄 **Resume:** (https://drive.google.com/file/d/1uYo_3Dyfp4vt7QQgEA8PLuWEzfU1Eo0k/view?usp=sharing)
 💼 **LinkedIn:** (https://linkedin.com/in/manish-tandel)  
 📧 **Email:** (tandel.manish34@gmail.com)
-
----
-
-⭐ *“Data doesn’t drive decisions — clarity does.”* 
